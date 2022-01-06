@@ -1,5 +1,4 @@
-%% polynomial regression by polyfit 
-syms T;
+%% polynomial regression by polyfit
 
 %given data
 
